@@ -1,8 +1,9 @@
 Part,Qty,Specification,Price,Link
-Case,1,3D printed (top + bottom),,
-Elastic band,1,Holds the battery in place,,
-Screws,2,M2x5 flat head,,
-MCU,1,Seeed XIAO nRF52840,,
-PCB,1,XIAO PCB from Scroll Dial,,https://github.com/maker-lukas/scroll-dial
-Female jumper cables,2,To connect the battery to the XIAO,,
-Male pin headers,4 pins,Battery contacts,,
+Case,1,3D printed (top + bottom),Self-printed,
+Rubber band,1,Holds the battery in place,$0.90,https://pt.aliexpress.com/item/1005007314739524.html
+Screws,2,M2x5 flat head,$1.00,https://pt.aliexpress.com/item/1005005070119421.html
+MCU,1,Seeed XIAO nRF52840,$13.09,https://mauser.pt/095-1482/seeed-102010448-microcontrolador-seeed-studio-xiao-nrf52840-c-bluetooth-5-0-ble-nfc-e-carregamento-de-bateria
+PCB,1,XIAO PCB from Scroll Dial,~$3,https://jlcpcb.com
+Female jumper cables,2,To connect the battery to the XIAO,$0.80,https://pt.aliexpress.com/item/1005011947332215.html
+Male pin headers,4 pins,Battery contacts + PCB contacts,$0.88,https://pt.aliexpress.com/item/1005009884599370.html
+Total,,,~$19.67,
