@@ -1,0 +1,8 @@
+Part,Qty,Specification,Price,Link
+Case,1,3D printed (top + bottom),,
+Elastic band,1,Holds the battery in place,,
+Screws,2,M2x5 flat head,,
+MCU,1,Seeed XIAO nRF52840,,
+PCB,1,XIAO PCB from Scroll Dial,,https://github.com/maker-lukas/scroll-dial
+Female jumper cables,2,To connect the battery to the XIAO,,
+Male pin headers,4 pins,Battery contacts,,
